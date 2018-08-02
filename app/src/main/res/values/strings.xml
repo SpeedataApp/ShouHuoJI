@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">公交商品</string>
+    <string name="put_away">上架</string>
+    <string name="dwon_away">下架</string>
+</resources>

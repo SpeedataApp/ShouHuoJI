@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4da4ed</color>
+    <color name="colorPrimaryDark">#6bb7f9</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_sheng">#333333</color>
+    <color name="text_qian">#999999</color>
+    <color name="text_red">#d02b24</color>
+    <color name="act_clor">#FFEDEDEB</color>
+    <color name="item_clor">#FFFDFDFE</color>
+    <color name="test">#D81B60</color>
+
+</resources>
